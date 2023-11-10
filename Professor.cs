@@ -8,7 +8,7 @@ namespace Cadastro_Usuario
 {
     internal class Professor:Usuario
     {
-        public int cargaHoraria { get; set; }
+        public int cargaHoraria { get; set; }aaa
         public string tipo { get; set; }
 
 
